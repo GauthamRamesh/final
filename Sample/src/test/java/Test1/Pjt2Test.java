@@ -6,7 +6,7 @@ public class Pjt2Test {
 
 	@Test
 	public void m2(){
-		System.out.println("hi");
+		System.out.println("welcome");
 	}
 
 }
